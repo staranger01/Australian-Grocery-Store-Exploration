@@ -1,3 +1,3 @@
-# Datathon-2020
+# Australian Grocery Store Exploration
 
-# # # Link to https://express.adobe.com/page/Nnc7strDcS7t2/
+# # # Link to Project https://express.adobe.com/page/Nnc7strDcS7t2/
